@@ -70,6 +70,7 @@ class GameplaySettingsSubState extends BaseOptionsMenu
 			true);
 		addOption(option);
 
+		/*
 		var option:Option = new Option('Remove Perfect! Note Judgement',
 			'If checked, removes Perfect! judgement',
 			'removePerfects',
@@ -77,7 +78,6 @@ class GameplaySettingsSubState extends BaseOptionsMenu
 			false);
 		addOption(option);
 
-		/*
 		var option:Option = new Option('Note Camera Movement',
 			'If checked, camera will move when pressing notes',
 			'cameramoveonnotes',
