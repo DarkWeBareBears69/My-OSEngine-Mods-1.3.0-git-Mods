@@ -75,7 +75,7 @@ class GameplaySettingsSubState extends BaseOptionsMenu
 			'removePerfects',
 			'bool',
 			false);
-		addOption(option);
+		//addOption(option);
 
 		/*
 		var option:Option = new Option('Note Camera Movement',
